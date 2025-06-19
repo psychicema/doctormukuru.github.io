@@ -1,0 +1,480 @@
+Uri: https://drswalihk.co.za/
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\index.htm
+Content Type: text/html
+
+Uri: https://drswalihk.co.za/comments/feed/
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://drswalihk.co.za/feed/
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://drswalihk.co.za/wp-content/plugins/bdthemes-element-pack/assets/css/bdt-uikit.css?ver=3.21.7
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\bdthemes-element-pack\assets\css\bdt-uikit.css
+Content Type: text/css
+
+Uri: https://drswalihk.co.za/wp-content/plugins/bdthemes-element-pack/assets/css/ep-advanced-icon-box.css?ver=7.19.6
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\bdthemes-element-pack\assets\css\ep-advanced-icon-box.css
+Content Type: text/css
+
+Uri: https://drswalihk.co.za/wp-content/plugins/bdthemes-element-pack/assets/css/ep-font.css?ver=7.19.6
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\bdthemes-element-pack\assets\css\ep-font.css
+Content Type: text/css
+
+Uri: https://drswalihk.co.za/wp-content/plugins/bdthemes-element-pack/assets/css/ep-helper.css?ver=7.19.6
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\bdthemes-element-pack\assets\css\ep-helper.css
+Content Type: text/css
+
+Uri: https://drswalihk.co.za/wp-content/plugins/bdthemes-element-pack/assets/css/ep-panel-slider.css?ver=7.19.6
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\bdthemes-element-pack\assets\css\ep-panel-slider.css
+Content Type: text/css
+
+Uri: https://drswalihk.co.za/wp-content/plugins/bdthemes-element-pack/assets/fonts/element-pack.svg?78cxts
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\bdthemes-element-pack\assets\fonts\element-pack.svg
+Content Type: image/svg+xml
+
+Uri: https://drswalihk.co.za/wp-content/plugins/bdthemes-element-pack/assets/fonts/element-pack.ttf?78cxts
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\bdthemes-element-pack\assets\fonts\element-pack.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://drswalihk.co.za/wp-content/plugins/bdthemes-element-pack/assets/fonts/element-pack.woff2?78cxts
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\bdthemes-element-pack\assets\fonts\element-pack.woff2
+Content Type: font/woff2
+
+Uri: https://drswalihk.co.za/wp-content/plugins/bdthemes-element-pack/assets/fonts/element-pack.woff?78cxts
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\bdthemes-element-pack\assets\fonts\element-pack.woff
+Content Type: application/font-woff
+
+Uri: https://drswalihk.co.za/wp-content/plugins/bdthemes-element-pack/assets/images/loading.svg
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\bdthemes-element-pack\assets\images\loading.svg
+Content Type: image/svg+xml
+
+Uri: https://drswalihk.co.za/wp-content/plugins/bdthemes-element-pack/assets/js/bdt-uikit.min.js?ver=3.21.7
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\bdthemes-element-pack\assets\js\bdt-uikit.min.js
+Content Type: application/x-javascript
+
+Uri: https://drswalihk.co.za/wp-content/plugins/bdthemes-element-pack/assets/js/common/helper.min.js?ver=7.19.6
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\bdthemes-element-pack\assets\js\common\helper.min.js
+Content Type: application/x-javascript
+
+Uri: https://drswalihk.co.za/wp-content/plugins/bdthemes-element-pack/assets/js/modules/ep-advanced-icon-box.min.js?ver=7.19.6
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\bdthemes-element-pack\assets\js\modules\ep-advanced-icon-box.min.js
+Content Type: application/x-javascript
+
+Uri: https://drswalihk.co.za/wp-content/plugins/bdthemes-element-pack/assets/js/modules/ep-panel-slider.min.js?ver=7.19.6
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\bdthemes-element-pack\assets\js\modules\ep-panel-slider.min.js
+Content Type: application/x-javascript
+
+Uri: https://drswalihk.co.za/wp-content/plugins/bdthemes-element-pack/assets/vendor/js/parallax.min.js
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\bdthemes-element-pack\assets\vendor\js\parallax.min.js
+Content Type: application/x-javascript
+
+Uri: https://drswalihk.co.za/wp-content/plugins/chaty-pro/css/chaty-front.min.css?ver=3.3.51742410398
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\chaty-pro\css\chaty-front.min.css
+Content Type: text/css
+
+Uri: https://drswalihk.co.za/wp-content/plugins/chaty-pro/images/header-bottom.png
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\chaty-pro\images\header-bottom.png
+Content Type: image/png
+
+Uri: https://drswalihk.co.za/wp-content/plugins/chaty-pro/images/header-top.png
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\chaty-pro\images\header-top.png
+Content Type: image/png
+
+Uri: https://drswalihk.co.za/wp-content/plugins/chaty-pro/images/whatsapp-welcome-popup.png
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\chaty-pro\images\whatsapp-welcome-popup.png
+Content Type: image/png
+
+Uri: https://drswalihk.co.za/wp-content/plugins/chaty-pro/images/whatsapp.png
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\chaty-pro\images\whatsapp.png
+Content Type: image/png
+
+Uri: https://drswalihk.co.za/wp-content/plugins/chaty-pro/js/cht-front-script.min.js?ver=3.3.51742410398
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\chaty-pro\js\cht-front-script.min.js
+Content Type: application/x-javascript
+
+Uri: https://drswalihk.co.za/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.27.7
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://drswalihk.co.za/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.27.7
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://drswalihk.co.za/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.27.7
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://drswalihk.co.za/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.27.7
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\elementor\assets\css\widget-spacer.min.css
+Content Type: text/css
+
+Uri: https://drswalihk.co.za/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.27.7
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\elementor\assets\css\widget-text-editor.min.css
+Content Type: text/css
+
+Uri: https://drswalihk.co.za/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.27.7
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://drswalihk.co.za/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.27.7
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://drswalihk.co.za/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.27.7
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://drswalihk.co.za/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInDown.min.css?ver=3.27.7
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInDown.min.css
+Content Type: text/css
+
+Uri: https://drswalihk.co.za/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=3.27.7
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInUp.min.css
+Content Type: text/css
+
+Uri: https://drswalihk.co.za/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://drswalihk.co.za/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\elementor\assets\lib\swiper\v8\swiper.min.js
+Content Type: application/x-javascript
+
+Uri: https://drswalihk.co.za/wp-content/plugins/omnisend/styles/site-styles.css?1750365820&ver=1.7.1
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\omnisend\styles\site-styles.css
+Content Type: text/css
+
+Uri: https://drswalihk.co.za/wp-content/plugins/uicore-framework/assets/fonts/uicore-icons.svg?bc5uma
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\uicore-framework\assets\fonts\uicore-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://drswalihk.co.za/wp-content/plugins/uicore-framework/assets/fonts/uicore-icons.ttf?bc5uma
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\uicore-framework\assets\fonts\uicore-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://drswalihk.co.za/wp-content/plugins/uicore-framework/assets/fonts/uicore-icons.woff?bc5uma
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\plugins\uicore-framework\assets\fonts\uicore-icons.woff
+Content Type: application/font-woff
+
+Uri: https://drswalihk.co.za/wp-content/uploads/2025/03/388a423adde21997afc5ed8a48749778-150x150.jpg
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\2025\03\388a423adde21997afc5ed8a48749778-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://drswalihk.co.za/wp-content/uploads/2025/03/388a423adde21997afc5ed8a48749778-300x298.jpg
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\2025\03\388a423adde21997afc5ed8a48749778-300x298.jpg
+Content Type: image/jpeg
+
+Uri: https://drswalihk.co.za/wp-content/uploads/2025/03/388a423adde21997afc5ed8a48749778.jpg
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\2025\03\388a423adde21997afc5ed8a48749778.jpg
+Content Type: image/jpeg
+
+Uri: https://drswalihk.co.za/wp-content/uploads/2025/03/a-scaled.jpg
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\2025\03\a-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://drswalihk.co.za/wp-content/uploads/2025/03/client88-150x150.png
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\2025\03\client88-150x150.png
+Content Type: image/png
+
+Uri: https://drswalihk.co.za/wp-content/uploads/2025/03/client88.png
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\2025\03\client88.png
+Content Type: image/png
+
+Uri: https://drswalihk.co.za/wp-content/uploads/2025/03/dsaafa0affa-1-150x150.png
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\2025\03\dsaafa0affa-1-150x150.png
+Content Type: image/png
+
+Uri: https://drswalihk.co.za/wp-content/uploads/2025/03/dsaafa0affa-1-300x300.png
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\2025\03\dsaafa0affa-1-300x300.png
+Content Type: image/png
+
+Uri: https://drswalihk.co.za/wp-content/uploads/2025/03/dsaafa0affa-1.png
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\2025\03\dsaafa0affa-1.png
+Content Type: image/png
+
+Uri: https://drswalihk.co.za/wp-content/uploads/2025/03/log-3.png
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\2025\03\log-3.png
+Content Type: image/png
+
+Uri: https://drswalihk.co.za/wp-content/uploads/2025/03/moses0hb-phawiq5rqvnvoy18vw3s7pfhamhahaxgoa580jemm0-150x150.png
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\2025\03\moses0hb-phawiq5rqvnvoy18vw3s7pfhamhahaxgoa580jemm0-150x150.png
+Content Type: image/png
+
+Uri: https://drswalihk.co.za/wp-content/uploads/2025/03/moses0hb-phawiq5rqvnvoy18vw3s7pfhamhahaxgoa580jemm0-300x300.png
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\2025\03\moses0hb-phawiq5rqvnvoy18vw3s7pfhamhahaxgoa580jemm0-300x300.png
+Content Type: image/png
+
+Uri: https://drswalihk.co.za/wp-content/uploads/2025/03/moses0hb-phawiq5rqvnvoy18vw3s7pfhamhahaxgoa580jemm0.png
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\2025\03\moses0hb-phawiq5rqvnvoy18vw3s7pfhamhahaxgoa580jemm0.png
+Content Type: image/png
+
+Uri: https://drswalihk.co.za/wp-content/uploads/2025/03/Personal-Trainer-Testimonial-1-150x150.webp
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\2025\03\Personal-Trainer-Testimonial-1-150x150.webp
+Content Type: image/webp
+
+Uri: https://drswalihk.co.za/wp-content/uploads/2025/03/Personal-Trainer-Testimonial-1-300x300.webp
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\2025\03\Personal-Trainer-Testimonial-1-300x300.webp
+Content Type: image/webp
+
+Uri: https://drswalihk.co.za/wp-content/uploads/2025/03/Personal-Trainer-Testimonial-1.webp
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\2025\03\Personal-Trainer-Testimonial-1.webp
+Content Type: image/webp
+
+Uri: https://drswalihk.co.za/wp-content/uploads/2025/03/Personal-Trainer-Testimonial-4-150x150.webp
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\2025\03\Personal-Trainer-Testimonial-4-150x150.webp
+Content Type: image/webp
+
+Uri: https://drswalihk.co.za/wp-content/uploads/2025/03/Personal-Trainer-Testimonial-4.webp
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\2025\03\Personal-Trainer-Testimonial-4.webp
+Content Type: image/webp
+
+Uri: https://drswalihk.co.za/wp-content/uploads/2025/03/pexels-tati-alves-661988314-23020385-scaled.jpg
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\2025\03\pexels-tati-alves-661988314-23020385-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://drswalihk.co.za/wp-content/uploads/2025/03/Rise-Favicon.png
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\2025\03\Rise-Favicon.png
+Content Type: image/png
+
+Uri: https://drswalihk.co.za/wp-content/uploads/2025/03/sara-spiritual-healing.webp
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\2025\03\sara-spiritual-healing.webp
+Content Type: image/webp
+
+Uri: https://drswalihk.co.za/wp-content/uploads/elementor/css/post-27.css?ver=1748126902
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\elementor\css\post-27.css
+Content Type: text/css
+
+Uri: https://drswalihk.co.za/wp-content/uploads/elementor/css/post-31.css?ver=1748126902
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\elementor\css\post-31.css
+Content Type: text/css
+
+Uri: https://drswalihk.co.za/wp-content/uploads/uicore-global.css?ver=2126
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\uicore-global.css
+Content Type: text/css
+
+Uri: https://drswalihk.co.za/wp-content/uploads/uicore-global.js?ver=2126
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-content\uploads\uicore-global.js
+Content Type: application/x-javascript
+
+Uri: https://drswalihk.co.za/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-includes\js\imagesloaded.min.js
+Content Type: application/x-javascript
+
+Uri: https://drswalihk.co.za/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://drswalihk.co.za/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://drswalihk.co.za/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://drswalihk.co.za/wp-json/
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://drswalihk.co.za/wp-json/oembed/1.0/embed?url=https:%2F%2Fdrswalihk.co.za%2F
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://drswalihk.co.za/wp-json/oembed/1.0/embed?url=https:%2F%2Fdrswalihk.co.za%2F&format=xml
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://drswalihk.co.za/wp-json/wp/v2/pages/27
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\wp-json\wp\v2\pages\27
+Content Type: application/json
+
+Uri: https://drswalihk.co.za/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lexend+Deca:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.7.2
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lexenddeca/v24/K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U48M1wqxnG.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\lexenddeca\v24\K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U48M1wqxnG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexenddeca/v24/K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U48MxwqxnG.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\lexenddeca\v24\K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U48MxwqxnG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexenddeca/v24/K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4cM1wqxnG.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\lexenddeca\v24\K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4cM1wqxnG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexenddeca/v24/K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4cMpwqxnG.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\lexenddeca\v24\K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4cMpwqxnG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexenddeca/v24/K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4F8pwqxnG.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\lexenddeca\v24\K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4F8pwqxnG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexenddeca/v24/K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4LspwqxnG.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\lexenddeca\v24\K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4LspwqxnG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexenddeca/v24/K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4rs1wqxnG.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\lexenddeca\v24\K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4rs1wqxnG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexenddeca/v24/K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4WcpwqxnG.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\lexenddeca\v24\K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4WcpwqxnG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexenddeca/v24/K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4ws1wqxnG.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\lexenddeca\v24\K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4ws1wqxnG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\poppins\v23\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\poppins\v23\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\poppins\v23\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\poppins\v23\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\poppins\v23\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\poppins\v23\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\poppins\v23\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\poppins\v23\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\poppins\v23\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\poppins\v23\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\poppins\v23\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\poppins\v23\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\poppins\v23\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\poppins\v23\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\poppins\v23\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\poppins\v23\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\poppins\v23\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\poppins\v23\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\drswalihk.co.za\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
